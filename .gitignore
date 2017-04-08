@@ -61,3 +61,4 @@ typings/
 
 # IDEA
 .idea/
+/server/config/config.json
